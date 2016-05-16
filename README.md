@@ -21,7 +21,3 @@ Thai Cryptor - English to Thai character replacer based on keyboard layout writt
 ### Todo
 - replace from Thai to English
 - test on Windows
-
-### Bug
-random error near vowels (not sure why)
-to fix this you need to run script again until no error found
